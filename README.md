@@ -2,4 +2,4 @@
 This is a game I was working on the is NOT finished
 
 ## Brief Description
-I was working on it locally and decided to put in on my github. I havent worked on it in a bit because I got busy and bored. I also got way too caught up with the graphics and the sprites so it caused me to get discouraged.
+I was working on it locally and decided to put in on my github. I havent worked on it in a bit because I got busy and bored.
